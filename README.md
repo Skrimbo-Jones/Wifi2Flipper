@@ -2,11 +2,13 @@
 Allows local storage of info to Flipper Zero.
 
  Title: WiFi Passwords Extractor
+ 
  Author: Jeffrey Koopman | JKCTech
  
  Link: https://github.com/jkctech/Flipper-Zero-Scripts/blob/main/badusb/Passwords/WiFi_Passwords_Win.txt
 
  Title: Wait For Drive Example
+ 
  Author: emptythevoid
  
  Link: https://github.com/emptythevoid/flipperzero/blob/main/badusb/read-from-flipper-disk-image/wait-for-drive-example.txt
