@@ -8,7 +8,7 @@ REM https://github.com/emptythevoid/flipperzero/blob/main/badusb/read-from-flipp
 REM [][][][][][][][][][][][][][][]
 REM Edited To Suit By Skrimbo_Jones
 REM This will make a file containing the active wifi network name and password of the device connected to. It will wait until you use the Mass Storage app on the 
-REM Flipper Zero to open a .img file with the name, "MAXUS", in the explorer. This can be edited to whatever you wish. (Use CTRL+F and replace all) 
+REM Flipper Zero to open an .img file with the name, "MAXUS", in the explorer. This can be edited to whatever you wish. (Use CTRL+F and replace all) 
 REM It then moves the wifi_passwords_[CURRENTUSERNAME].txt to the drive and deletes it from the system.
 REM I take no credit for this code. I only combined and tweaked it. Please acknowledge the true creators above.
 REM ~Skrimbo_Jones
