@@ -16,7 +16,7 @@ Allows local storage of info to Flipper Zero.
  Edited To Suit By Skrimbo_Jones
  
  This will make a file containing the active wifi network name and password of the device connected to. It will wait until you use the Mass Storage app on the 
- Flipper Zero to open a .img file with the name, "MAXUS", in the explorer. This can be edited to whatever you wish. 
+ Flipper Zero to open an .img file with the name, "MAXUS", in the explorer. This can be edited to whatever you wish. 
  It then moves the wifi_passwords_[CURRENTUSERNAME].txt to the drive and deletes it from the system.
  
  I take no credit for this code. I only combined and tweaked it. 
