@@ -2,11 +2,13 @@
 Allows local storage of info to Flipper Zero.
  Title: WiFi Passwords Extractor
  Author: Jeffrey Koopman | JKCTech
- https://github.com/jkctech/Flipper-Zero-Scripts/blob/main/badusb/Passwords/WiFi_Passwords_Win.txt
+ 
+ Link: https://github.com/jkctech/Flipper-Zero-Scripts/blob/main/badusb/Passwords/WiFi_Passwords_Win.txt
 
  Title: Wait For Drive Example
  Author: emptythevoid
- https://github.com/emptythevoid/flipperzero/blob/main/badusb/read-from-flipper-disk-image/wait-for-drive-example.txt
+ 
+ Link: https://github.com/emptythevoid/flipperzero/blob/main/badusb/read-from-flipper-disk-image/wait-for-drive-example.txt
 
  Edited To Suit By Skrimbo_Jones
  This will make a file containing the active wifi network name and password of the device connected to. It will wait until you use the Mass Storage app on the 
