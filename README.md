@@ -25,4 +25,4 @@ Allows local storage of info to Flipper Zero.
  
  ~Skrimbo_Jones
  
- NOTE You switch to the Mass Storage app once the BadUSB script reads 100%.
+ NOTE You switch to the Mass Storage app once the BadKB script reads 100%.
